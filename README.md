@@ -1,9 +1,9 @@
-# Your Project's Title...
+# My Ideas Repo
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--aem--virajranjankumar.aem.page/
+- Live: https://main--aem--virajranjankumar.aem.live/
 
 ## Documentation
 
